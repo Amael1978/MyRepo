@@ -1,4 +1,4 @@
-# Copyright Soilution GbR - Karsten Schmidt 2022
+# Copyright CC BY SA 4.0 Soilution GbR - Karsten Schmidt 2022
 
 
 library(dplyr)
