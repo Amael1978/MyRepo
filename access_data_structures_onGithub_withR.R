@@ -1,3 +1,6 @@
+# Copyright Soilution GbR - Karsten Schmidt 2022
+
+
 library(dplyr)
 library(rvest)
 
